@@ -1,2 +1,6 @@
 print(lagei)
-ssss
+sss
+
+
+sssssgggggg
+s
