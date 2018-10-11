@@ -1,6 +1,1 @@
 print(lagei)
-sss
-
-
-sssssgggggg
-s
